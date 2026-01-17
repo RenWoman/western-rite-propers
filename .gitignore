@@ -1,0 +1,9 @@
+# Ignore the messy data files
+data.json
+clean_data.json
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache folders
+__pycache__/
